@@ -9,14 +9,14 @@ h1{
 }
 
 main{
-    background-image: url(/images/neon.jpg);
+    background-image: url(./images/neon.jpg);
     background-size: cover;
     height: 100vh;
     
 }
 
 .bgImage{
-    background-image: url(/images/neon.jpg);
+    background-image: url(./images/neon.jpg);
     background-size: cover;
 }
 
